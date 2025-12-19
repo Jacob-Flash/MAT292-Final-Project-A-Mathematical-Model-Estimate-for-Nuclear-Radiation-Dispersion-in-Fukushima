@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
 """
 =============================================================================
              RK4 + PHYSICS-INFORMED NEURAL NETWORK (PINN) SIMULATOR
 =============================================================================
 *** Although the .py file is uploaded, we do recommend you to use the .ipynb file
-to open it in Google Colab to run. ***
+to open it directly in the Google Colab. ***
 
 [1] USER GUIDE & INSTRUCTIONS
 -----------------------------------------------------------------------------
