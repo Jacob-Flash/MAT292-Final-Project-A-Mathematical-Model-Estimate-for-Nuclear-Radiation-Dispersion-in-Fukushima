@@ -3,7 +3,7 @@
                        ALPS GLOBAL DISPERSION MODEL V2.1
 =============================================================================
 ***REQUIRED LIBRARIES:
-You must have the following Python libraries installed:
+You must have the following Python libraries installed (conduct the following command in terminal):
    pip install numpy matplotlib scipy cartopy
 
 [1] USER GUIDE & INSTRUCTIONS
@@ -16,10 +16,15 @@ HOW TO OPERATE:
 2. Select Option [1] to generate a World Map at a specific year (e.g., "10.0").
 3. Select Option [2] to calculate the arrival time for a specific city.
    - Example inputs: "London", "Dubai", "Shanghai", "Sydney".
-
+   - You must enter the EXACT SAME city name to successfully operate.
+4. Select Option [3] to check the list of available cities.
+5. Select Option [Q] to quit the program.
 
 Code Running Application:
-Python/Pyzo is recommended to run this code. If you use Google Colab, you may not be able to continue to conduct next instruction after you received your first result. This limitation is caused by Google Colab itself. You can run in Pyzo/Python without limitation but remember to download the required library. If not, the code will not be operating.
+- Python/Pyzo is HIGHLY RECOMMENDED to run this code. You can run in Pyzo/Python IDLE without limitation but remember to DOWNLOAD THE REQUIRED LIBRARY. If not, the code will not be operating.
+- If you use Google Colab, you may not be able to continue to conduct next instruction after you received your first result. This limitation is caused by Google Colab itself. If you are using Google Colab, you must END the program manually after each image output to start the next one. REMEMBER to DOWNLOAD THE REQUIRED LIBRARY. If not, the code will not be operating.
+- DO NOT USE VS code because it has some unspecified problem due to the application itself.
+- Other applications are NOT TESTED. So, PLEASE use the Pyzo or Python IDLE to operate the program!!!!!!!!!!!
 
 LIMITATIONS:
 MAXIMUM YEAR: The model creates a track of ~40,000 km.
