@@ -140,12 +140,10 @@ class GlobalSimulation:
 
         pts_a = [
             # [Lat, Lon, Vel]
-            """
-            - Japan Coast: Fast Kuroshio current
-            - Open Pacific: Very slow diffusion
-            - Atlantic: Speeds up in Gulf Stream
-            - Suez/Malacca: Bottlenecks slow down transportation
-            """
+            # - Japan Coast: Fast Kuroshio current
+            # - Open Pacific: Very slow diffusion
+            # - Atlantic: Speeds up in Gulf Stream
+            # - Suez/Malacca: Bottlenecks slow down transportation
             [37, 141, 15],  # Fukushima
             [42, 160, 10],  # Kuroshio Extension
             [48, 200, 6],   # Open Pacific (Slow Drift)
