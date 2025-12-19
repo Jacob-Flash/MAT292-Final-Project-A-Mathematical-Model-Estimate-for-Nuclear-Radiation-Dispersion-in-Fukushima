@@ -2,6 +2,9 @@
 =============================================================================
                        ALPS GLOBAL DISPERSION MODEL V2.1
 =============================================================================
+***REQUIRED LIBRARIES:
+You must have the following Python libraries installed:
+   pip install numpy matplotlib scipy cartopy
 
 [1] USER GUIDE & INSTRUCTIONS
 -----------------------------------------------------------------------------
@@ -14,9 +17,6 @@ HOW TO OPERATE:
 3. Select Option [2] to calculate the arrival time for a specific city.
    - Example inputs: "London", "Dubai", "Shanghai", "Sydney".
 
-REQUIRED LIBRARIES:
-You must have the following Python libraries installed:
-   pip install numpy matplotlib scipy cartopy
 
 Code Running Application:
 Python/Pyzo is recommended to run this code. If you use Google Colab, you may not be able to continue to conduct next instruction after you received your first result. This limitation is caused by Google Colab itself. You can run in Pyzo/Python without limitation but remember to download the required library. If not, the code will not be operating.
