@@ -40,7 +40,7 @@ The output is a Heatmap showing radioactivity in fish (Bq/kg).
 - NEURAL NETWORK: The accuracy depends on training. If 'Loss' remains high
   (>0.1), re-run the script to re-initialize the random weights. No guarantee
   that you can receive the exact same result due to Neural Network.
-- We recommend to run the training code twice to get a more precise code that
+- We recommend to run the training code twice to get a more precise result that
   is similar to our results in the report.
 
 *** Gemini is used to generate the explanation and the guidelines for clarity.
